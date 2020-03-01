@@ -1,8 +1,8 @@
 # 質問 prompt
 
-This library packages the Javascript input method `prompt` for [Wenyan Lang](https://github.com/wenyan-lang/wenyan).
+This library wraps the Javascript input method `prompt` for [Wenyan Lang](https://github.com/wenyan-lang/wenyan).
 
-When run in a browser, the prompt() method displays a dialog box that prompts the visitor for input.
+When run in a browser, the prompt method displays a dialog box that prompts the visitor for input.
 
 ## Install
 
